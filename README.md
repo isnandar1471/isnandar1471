@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @isnandar1471
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Tentang Saya
 
-<!---
-isnandar1471/isnandar1471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Halo, saya Fajar.
+Saat ini masih berkuliah di Informatika PENS
+
+## Kontak
+
+Anda dapat menghubungi saya melalui email di [isnandar.1471@gmail.com](mailto:isnandar.1471@gmail.com) atau melalui media sosial di [Instagram](https://instagram.com/isnandar_fajar_pangestu).
