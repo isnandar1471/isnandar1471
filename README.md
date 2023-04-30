@@ -1,8 +1,8 @@
-## Tentang Saya
+## About Me
 
-Halo, saya Fajar.
-Saat ini masih berkuliah di Informatika PENS
+Hello, I'm Fajar.
+Currently still in college.
 
-## Kontak
+## Contact
 
-Anda dapat menghubungi saya melalui email di [isnandar.1471@gmail.com](mailto:isnandar.1471@gmail.com) atau melalui media sosial di [Instagram](https://instagram.com/isnandar_fajar_pangestu).
+You can contact me via email at [isnandar.1471@gmail.com](mailto:isnandar.1471@gmail.com) or through social media at [Instagram](https://instagram.com/isnandar_fajar_pangestu).
