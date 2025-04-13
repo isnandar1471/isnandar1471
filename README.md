@@ -1,7 +1,6 @@
 ## About Me
 
 Hello, I'm Fajar.
-Currently still in college.
 
 ## Contact
 
